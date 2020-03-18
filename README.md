@@ -1,4 +1,4 @@
-# Object Recognition using TensorFlow and Java
+# Object Recognition using tensorFlow and Java
 
 This project has been implemented to recognize an object from its image using a pre-trained InceptionV3 model which 
 is trained to recognize objects from hundreds of classes including animals,birds,stationary,vehicles,etc.
