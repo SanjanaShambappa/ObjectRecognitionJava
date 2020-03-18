@@ -13,6 +13,6 @@ https://www.youtube.com/watch?v=hFzAA0xHbZA
 
 
 A special thanks to:
-- EsotericSoftware to for their TableLayout Library: https://github.com/EsotericSoftware/tablelayout
+- 
 - Our faculty for giving this project. 
 
