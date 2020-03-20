@@ -15,7 +15,7 @@ This Project also has an interactive GUI using JavaFx. A small preview of this p
 
 ![Alt text](p1.JPG?raw=true "Title")     ![Alt text](p2.JPG?raw=true "Title")
 
-![Alt text](p3.JPG?raw=true "Title")
+![Alt text](p3.JPG?raw=true "Title")     ![Alt text](p4.JPG?raw=true "Title")
 
 
 A special thanks to:
