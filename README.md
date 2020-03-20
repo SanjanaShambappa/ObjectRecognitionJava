@@ -12,7 +12,7 @@ A youtube refernce video for compiling and executing the project on NetBeans pla
 https://www.youtube.com/watch?v=hFzAA0xHbZA
 
 This Project also has an interactive GUI using JavaFx. A small preview of this project is given below:
-
+![Alt text](p1.jpg?raw=true "Title")
 
 A special thanks to:
 - Our faculty Prof. Anisha B.S, Assistant Professor at Information Science and Engineering Department of RVCE.
