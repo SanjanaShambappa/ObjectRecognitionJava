@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=hFzAA0xHbZA
 
 This Project also has an interactive GUI using JavaFx. A small preview of this project is given below:
 
-![Alt text](p1.JPG?raw=true "Title")     ![Alt text](p2.JPG?raw=true "Title")
+![Alt text](p1.PNG?raw=true "Title")     ![Alt text](p2.JPG?raw=true "Title")
  
 ![Alt text](p3.JPG?raw=true "Title")     ![Alt text](p4.JPG?raw=true "Title")
 
