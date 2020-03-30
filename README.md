@@ -6,6 +6,7 @@ is trained to recognize objects from hundreds of classes including animals,birds
 The pre-trained Inception V3 model can be downloaded from the below link: https://storage.googleapis.com/download.tensorflow.org/models/inception_dec_2015.zip
 
 For more information about Object Recognition, visit our website with the link below:
+
 https://sites.google.com/rvce.edu.in/object-recognition/home?authuser=1
 
 This website has:
@@ -26,9 +27,11 @@ A special thanks to:
 - Our faculty Prof. Anisha B.S, Assistant Professor at Information Science and Engineering Department of RVCE.
 
 For more details about the project visit this link:
+
 http://emaraic.com/blog/object-recognition-using-TensorFlow-Java
 
 A youtube refernce video for compiling and executing the project on NetBeans platform:
+
 https://www.youtube.com/watch?v=hFzAA0xHbZA
 
 
