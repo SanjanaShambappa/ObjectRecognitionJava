@@ -30,7 +30,7 @@ For more details about the project visit this link:
 
 http://emaraic.com/blog/object-recognition-using-TensorFlow-Java
 
-A youtube refernce video for compiling and executing the project on NetBeans platform:
+A youtube reference video for compiling and executing the project on NetBeans platform:
 
 https://www.youtube.com/watch?v=hFzAA0xHbZA
 
